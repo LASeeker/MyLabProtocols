@@ -4,6 +4,7 @@ This is an  example protocol:
 Buy antibody that definitely works
 Take tissue 
 Stain 
-Look at it using a microscope. 
+Look at it using a microscope
+Take the most stunning pictures
 
 DONE
