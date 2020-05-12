@@ -1,13 +1,13 @@
 This is an  example protocol:
 
 
-Buy antibody that definitely works
+Buy antibody that definitely works, this will probably involve trying many
 Take tissue 
-Stain 
+Stain for a very long time!
 Look at it using a microscope
 Take the most stunning pictures
 Publish in high impact journal!!
-
+Forked version!!
 DONE
 
 Hello there! (Fenia)
